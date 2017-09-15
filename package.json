@@ -1,0 +1,18 @@
+{
+  "name": "techsupportbot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.81.0",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.14.1"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
